@@ -1,14 +1,9 @@
 ### Hey y'all 👋🏾
-
-<!--
-**mnettl/mnettl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+I'm **Morgan**
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: mnettl125@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 ✌🏾
--->
+
