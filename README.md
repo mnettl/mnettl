@@ -5,5 +5,4 @@ I'm **Morgan**
 - 📫 How to reach me: mnettl125@gmail.com
 - 😄 Pronouns: she/her
 <!-- - ⚡ Fun fact: ... -->
-✌🏾
 
